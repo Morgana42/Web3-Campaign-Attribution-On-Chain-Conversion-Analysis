@@ -5,7 +5,7 @@ import time
 
 # Configuration parameters
 num_users = 50
-campaigns = ['cbwallet', 'bestprice', 'mev']
+campaigns = ['campaign_id_3', 'campaign_id_1', 'campaign_id_2']
 sources = ['ClientX', 'hypelab', 'slise']
 mediums = ['paid_display', 'organic_social']
 target_contract = '0xEXAMPLE9bD2B4ADddBc894D8697F5170800EAdeC'
